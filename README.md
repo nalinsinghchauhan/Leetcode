@@ -6,6 +6,7 @@ HI
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0056-merge-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -23,6 +24,7 @@ HI
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -44,6 +46,7 @@ HI
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
