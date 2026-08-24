@@ -8,6 +8,7 @@ HI
 | [0056-merge-intervals](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0056-merge-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3523-make-array-non-decreasing](https://github.com/nalinsinghchauhan/Leetcode/tree/master/3523-make-array-non-decreasing) |
@@ -26,6 +27,7 @@ HI
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -48,5 +50,6 @@ HI
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
