@@ -35,6 +35,7 @@ HI
 |  |
 | ------- |
 | [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
+| [1768-merge-strings-alternately](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -55,4 +56,8 @@ HI
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
