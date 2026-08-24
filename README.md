@@ -8,6 +8,7 @@ HI
 | [0056-merge-intervals](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0056-merge-intervals) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3523-make-array-non-decreasing](https://github.com/nalinsinghchauhan/Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Sorting
 |  |
@@ -44,4 +45,5 @@ HI
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
