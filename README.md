@@ -6,6 +6,7 @@ HI
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0056-merge-intervals) |
+| [0525-contiguous-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -25,6 +26,7 @@ HI
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -48,6 +50,7 @@ HI
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
