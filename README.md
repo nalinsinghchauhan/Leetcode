@@ -11,6 +11,7 @@ HI
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0056-merge-intervals) |
+| [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Quicksort
 |  |
@@ -19,5 +20,10 @@ HI
 ## Hash Table
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+## String
+|  |
+| ------- |
+| [0791-custom-sort-string](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0791-custom-sort-string) |
 <!---LeetCode Topics End-->
