@@ -60,4 +60,8 @@ HI
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/nalinsinghchauhan/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nalinsinghchauhan/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
